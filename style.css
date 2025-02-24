@@ -1,5 +1,6 @@
 .main-container {
   position: absolute;
   object-fit: contain;
+  background-repeat: no-repeat;
   size: contain;
 }
